@@ -1,0 +1,8 @@
+{
+  "package_name": "",
+  "repository_url": "https://test.repo",
+  "test_repository_mode": "not_boolean",
+  "package_version": "1.0.0",
+  "output_filename": "graph.png",
+  "max_dependency_depth": -5
+}

@@ -1,0 +1,8 @@
+{
+  "package_name": "KONFA2",
+  "repository_url": "https://github.com/finikato/KONFA2",
+  "test_repository_mode": false,
+  "package_version": "1.0.0",
+  "output_filename": "graph.png",
+  "max_dependency_depth": 3
+}
