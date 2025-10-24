@@ -10,17 +10,17 @@
   5)Создана базовая структура приложения с CLI интерфейсом
   
   Тест 1: Успешный запуск
-  python dependency_visualizer.py --config config.json
+  python visualizer.py --config config.json
 
   Тест 2: Файл не существует
-  python dependency_visualizer.py --config missing.json
+  python visualizer.py --config missing.json
 
   Тест 3: Невалидный JSON
-  python dependency_visualizer.py --config bad_config.json
+  python visualizer.py --config bad_config.json
 
   Тест 4: Отсутствуют обязательные поля
-  python dependency_visualizer.py --config incomplete.json
+  python visualizer.py --config incomplete.json
 
   Тест 5: Неправильные типы данных
-  python dependency_visualizer.py --config wrong_types.json
+  python visualizer.py --config wrong_types.json
 </pre>
