@@ -23,4 +23,5 @@
 
   Тест 5: Неправильные типы данных
   python visualizer.py --config wrong_types.json
+  
 </pre>
